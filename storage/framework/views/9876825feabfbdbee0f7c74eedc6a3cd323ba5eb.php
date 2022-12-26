@@ -1,0 +1,2 @@
+<h1>Hello World</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius maiores pariatur necessitatibus blanditiis ab, minima repellendus nam! Quae facere, ipsum quis doloremque sunt vel optio explicabo maiores corrupti eum commodi.</p><?php /**PATH C:\OSPanel\domains\laravel\resources\views/hello.blade.php ENDPATH**/ ?>
